@@ -80,9 +80,9 @@ The Library Management System is a Java-based console application that allows st
 
 <h3>Future Enhancements</h3>
 <ul>
-<li>Add support for overdue book tracking and fine calculation.<li>
-<li>Implement a graphical user interface (GUI) for a more user-friendly experience.<li>
-<li>Add a feature to search for books by multiple filters (e.g., genre, publication year).<li>
+<li>Add support for overdue book tracking and fine calculation.</li>
+<li>Implement a graphical user interface (GUI) for a more user-friendly experience.</li>
+<li>Add a feature to search for books by multiple filters (e.g., genre, publication year).</li>
 </ul>
 <hr>
 
